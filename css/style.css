@@ -1,0 +1,60 @@
+h1{
+
+    float : center;
+    font-style: bold;
+    text-emphasis-color: red;
+
+}
+
+h3{
+    font-style: bold;
+}
+
+h4{
+    font-style: bold;
+}
+
+.navbar{
+    width: 100;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #786;
+
+}
+
+.offers{
+    float: center;
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(231, 121, 47);
+}
+
+.mission{
+
+}
+
+.vision{
+
+}
+
+.list{
+
+}
+
+.vbox1{
+
+}
+
+.vbox2{
+
+}
+
+.vbox3{
+
+}
+.footer{
+    float: center;    
+}
